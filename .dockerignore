@@ -1,0 +1,9 @@
+__pycache__
+*.pyc
+*.pyo
+*.ipynb
+.ipynb_checkpoints
+new.csv
+loan_prediction.csv
+tempCodeRunnerFile.py
+.vscodes
